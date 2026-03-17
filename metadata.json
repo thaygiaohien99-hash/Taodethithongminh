@@ -1,0 +1,5 @@
+{
+  "name": "Tạo đề thi từ ma trận_CC",
+  "description": "Một ứng dụng web giúp giáo viên tạo ma trận, đặc tả, và đề thi hoàn chỉnhพร้อม đáp án một cách nhanh chóng và hiệu quả bằng Gemini API.",
+  "requestFramePermissions": []
+}
